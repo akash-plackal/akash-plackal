@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node js , shell scripting**
 
-- 👨‍💻 All of my projects are available at [portfolio link ... coming soon](portfolio link ... coming soon)
+- 👨‍💻 All of my projects are available at ** portfolio site ... coming soon**
 
 - 📫 How to reach me **akashplackal@gmail.com**
 
