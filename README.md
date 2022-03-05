@@ -7,7 +7,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **portfolio site ... work in progress** -->
 
-- 📫 How to reach me **akash-plackal.netlify.app**
+- 📫 How to reach me **https://akash-plackal.netlify.app/**
 
 <!-- - ⚡ Fun fact **I love chess & i'm a huge MMA and boxing fan** -->
 
